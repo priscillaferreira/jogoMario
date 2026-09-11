@@ -67,7 +67,7 @@ canvas {
   display: block;
   width: 100%;
   height: auto;
-  background: var(--sky);
+  background: linear-gradient(180deg, #5c94fc 0%, #7db2ff 70%, #a7d0ff 100%);
   image-rendering: pixelated;
 }
 
