@@ -59,6 +59,16 @@ export class Engine {
     const p = this.player;
     p.update(this.input, platforms);
 
+    // Mantém o jogador dentro dos limites horizontais da fase
+    if (p.x < 0) {
+      p.x = 0;
+      p.vx = 0;
+    }
+    if (p.x + p.w > LEVEL_WIDTH) {
+      p.x = LEVEL_WIDTH - p.w;
+      p.vx = 0;
+    }
+
     // Câmera acompanha o jogador
     this.camera = Math.max(0, Math.min(p.x - this.width / 2, LEVEL_WIDTH - this.width));
 
