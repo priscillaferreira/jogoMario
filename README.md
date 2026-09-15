@@ -95,12 +95,12 @@ Colete as moedas, pule sobre os Goombas para derrotá-los e alcance a bandeira p
 
 | Nome           | Matrícula | Papel         |
 |----------------|-----------|---------------|
-| João da Silva  | 123456    | Scrum Master  |
-| Maria Santos   | 234567    | Documentador  |
-| Pedro Oliveira | 345678    | Desenvolvedor |
-| Ana Costa      | 456789    | Desenvolvedor |
-| Carlos Souza   | 567890    | Testador      |
-| Juliana Lima   | 678901    | Testador      |
+| Priscilla Ferreira Moura  | 01044267 | Scrum Master  |
+| Jonathas   | 01887445  | Documentador  |
+| João Victor Souza Lins | 01887445  | Desenvolvedor |
+| Alexandre Cavalcanti Dantas Layme      | 01883323  | Desenvolvedor |
+| Edieyson Morato de Oliveira  | 01345936  | Testador |
+
 
 > **Observação:** substitua os dados da tabela acima pelos nomes, matrículas e papéis
 > reais dos integrantes do seu grupo antes da entrega.
