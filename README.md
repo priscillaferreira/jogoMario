@@ -96,7 +96,7 @@ Colete as moedas, pule sobre os Goombas para derrotá-los e alcance a bandeira p
 | Nome           | Matrícula | Papel         |
 |----------------|-----------|---------------|
 | Priscilla Ferreira Moura  | 01044267 | Scrum Master  |
-| Jonathas   | 01887445  | Documentador  |
+| Jonathas Paes Barreto Silva   | 01920308 | Documentador  |
 | João Victor Souza Lins | 01887445  | Desenvolvedor |
 | Alexandre Cavalcanti Dantas Layme      | 01883323  | Desenvolvedor |
 | Edieyson Morato de Oliveira  | 01345936  | Testador |
